@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(114, 114, 114);
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+    color:red;
+    background-color:black;
+}
+h2{
+    text-align: center;
+    color:red;
+    background-color:black;
+}
+header{
+    background-color:rgb(165, 161, 161);
+}
+nav a{
+    color:white;
+    background-color:black;
+    border-radius:15px ;
+    font-size:20px;
+    padding:4px;
+    text-decoration:none;
+}
+nav{
+    text-align:center;
+    padding:50px;
+}
+main a{
+    background-color: black;
+    color:white;
+}
+.pap{
+    text-align: center;
+    background-color:tomato;
+    color:black;
+    border-radius:13px;
+}
+.asd{
+    background-color: white;
+    color:black;
+}
+footer p{
+   background-color:tomato;
+   color:white;
+   text-align: center; 
+}
